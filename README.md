@@ -1,7 +1,7 @@
 # Sample App: calculator
 Trabajo Practico de la materia Aplicaciones Móviles en la Universidad Tecnologica Nacional FRLP.
 
-##Librerias usadas y conceptos aplicados:
+## Librerias usadas y conceptos aplicados:
 
 1. Javascript ES6
 2. React Native & Expo (Async-Storage, Platform, etc) 3.X
