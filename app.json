@@ -26,6 +26,7 @@
     "ios": {
       "supportsTablet": true
     },
-    "description": "Proyecto de aprendizaje, que involucra varios conceptos como: React Native, Expo, Redux y muchas cosas más"
+    "description": "Proyecto de aprendizaje, que involucra varios conceptos como: React Native, Expo, Redux y muchas cosas más",
+    "githubUrl": "https://github.com/pastorinoandres/calculator"
   }
 }
