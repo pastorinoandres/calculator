@@ -15,6 +15,7 @@
     "preset": "jest-expo"
   },
   "dependencies": {
+    "braces": "^3.0.2",
     "expo": "^33.0.0",
     "moment": "^2.24.0",
     "react": "16.8.3",
